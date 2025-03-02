@@ -36,13 +36,14 @@ export const PROJECTS = [
     description:
       "A MERN stack to-do app for managing tasks with CRUD operations using MongoDB, Express, React, and Node.js.: ["MERN stack", "CSS", "React"],
   },
+
  {
     title: "My Portfolio",
     image: project4,
     githubLink: "https://github.com/hishanth01/My_portfolio.git",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["React", "Tailwind CSS", "Vite"],
+       technologies: ["React", "Tailwind CSS", "Vite"],
   },
   
 ];
