@@ -34,8 +34,15 @@ export const PROJECTS = [
     image: project3,
     githubLink: "https://github.com/hishanth01/merntodo.git",
     description:
+      "A MERN stack to-do app for managing tasks with CRUD operations using MongoDB, Express, React, and Node.js.: ["MERN stack", "CSS", "React"],
+  },
+ {
+    title: "My Portfolio",
+    image: project4,
+    githubLink: "https://github.com/hishanth01/My_portfolio.git",
+    description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["MERN stack", "CSS", "React"],
+    technologies: ["React", "Tailwind CSS", "Vite"],
   },
   
 ];
