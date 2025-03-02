@@ -27,24 +27,17 @@ export const PROJECTS = [
     githubLink: "https://github.com/hishanth01/song-recommender-python.git",
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["Python", "Notebook"],
+     technologies: ["Python", "Notebook"],
   },
   {
     title: "MERN Todo",
     image: project3,
     githubLink: "https://github.com/hishanth01/merntodo.git",
     description:
-      "A MERN stack to-do app for managing tasks with CRUD operations using MongoDB, Express, React, and Node.js.: ["MERN stack", "CSS", "React"],
+      "A MERN stack to-do app for managing tasks with CRUD operations using MongoDB, Express, React, and Node.js. : ["MERN stack", "CSS", "React"],
   },
 
- {
-    title: "My Portfolio",
-    image: project4,
-    githubLink: "https://github.com/hishanth01/My_portfolio.git",
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-       technologies: ["React", "Tailwind CSS", "Vite"],
-  },
+
   
 ];
 
