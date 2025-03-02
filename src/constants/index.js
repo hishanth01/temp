@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 
 export const HERO_CONTENT = "Innovative Software Engineer with a passion for crafting scalable solutions that transform ideas into impactful applications. Skilled in full-stackdevelopment, system design, and software optimization. Known for blending creativity with technical expertise to deliver seamless user experiences and robust architectures. A proactive problem-solver with a track record of successful projects and crossteam collaboration. Dedicated to continuous learning and building solutions that empower users and drive growth";
@@ -37,7 +38,18 @@ export const PROJECTS = [
       "A MERN stack to-do app for managing tasks with CRUD operations using MongoDB, Express, React, and Node.js.",
      technologies: ["MERN stack", "CSS", "React"],
   },
-  
+{
+    title: "My Portfolio",
+    image: project4, 
+    githubLink: "https://github.com/hishanth01/My_portfolio.git",
+    description:
+      "A modern and responsive portfolio showcasing my projects, skills, and experience using React, Tailwind CSS, and Framer Motion.",
+    technologies: ["Tailwind CSS", "Framer Motion", "React"],
+  },
+
+
+
+ 
 ];
 
 export const CONTACT = {
